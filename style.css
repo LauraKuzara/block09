@@ -1,3 +1,15 @@
 img {
     height: 350px;
 }
+nav {
+    align-items: center;
+    background-color: pink;
+    color: gray;
+    display: flex;
+    height: 80px;
+    padding: 10px;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
