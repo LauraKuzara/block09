@@ -1,5 +1,7 @@
 img {
     height: 350px;
+    float: right;
+    margin: 10px 10px 10px 10px;
 }
 nav {
     align-items: center;
