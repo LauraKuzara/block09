@@ -11,7 +11,13 @@ nav {
     height: 80px;
     padding: 10px;
     justify-content: space-between;
-    position: fixed;
+    position: fixed; top;
     left: 0;
     right: 0;
+}
+section {
+    height: 50vh;
+}
+p {
+    height: calc(50vh - 1vh);
 }
